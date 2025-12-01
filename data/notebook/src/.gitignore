@@ -6,16 +6,3 @@ ENV/
 # Variables d'environnement
 .env
 
-# Fichiers Python inutiles
-__pycache__/
-*.pyc
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# VS Code settings
-.vscode/
-
-# Fichiers système
-.DS_Store
-Thumbs.db
