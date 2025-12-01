@@ -1,8 +1,0 @@
-# Environnement virtuel
-venv/
-ENV/
-.venv/
-env/
-# Variables d'environnement
-.env
-
