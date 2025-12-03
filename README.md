@@ -1,5 +1,3 @@
-# Chatbot-RAG
+# Chatbot-RAG-Sofiene
 
 Hello
-
-pip install -r requirements.txt
